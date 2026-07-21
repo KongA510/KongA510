@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hutao.jpg" width="100%" alt="Hu Tao"/>
+<img src="assets/hutao.jpg" width="360" alt="Hu Tao"/>
 
 <a href="https://github.com/KongA510">
   <img src="https://img.shields.io/badge/GITHUB-KongA510-0D1B2E?style=for-the-badge&logo=github&logoColor=E8EEF7"/>
@@ -18,29 +18,38 @@
 
 > 「阴阳有序，命运无常。但 bug 可以有常。」 —— 胡桃（大概）
 
-<table>
-<tr>
-<td width="50%">
-
 **🎮 当前状态**
 - 🔭 正在开发 **ArasToolkit** — Aras Innovator 开发工具箱
 - 🌱 深耕 **.NET 桌面端 / PLM 系统集成**
 - ⚡ 哲学：高内聚低耦合 · 接口驱动 · 简洁即力量
 - 🦋 副业：往生堂第77代堂主候补（兼职写代码）
 
-</td>
-<td width="50%">
+<img src="assets/divider.svg" width="100%"/>
 
-**🎲 随机语录**
-- 「代码写得好，送走没烦恼」
-- 「这个 bug 嘛…属于是自然规律了」
-- 「需求变更？阴阳交替，此乃天道」
-- 「加班？往生堂24小时营业哦~」
+## 💬 堂主语录 · QUOTES
+
+> 📜 **胡桃原典**
+
+- 「生老病死，天地万象，阴阳交替，此乃天道。」
+- 「太阳出来我晒太阳，月亮出来我晒月亮。」
+- 「吃饱喝好，一路走好~」
+- 「送走，全送走！」
+- 「哎呀呀，又有人来预约往生堂的业务了吗？」
+- 「嗷，吓我一跳，我还以为是大白天见鬼了呢。」
+- 「堂主我呀，最喜欢摩拉啦！」
+
+> 💻 **编程超度语录**
+
+- 「代码写得好，送走没烦恼。」
+- 「这个 bug 嘛…属于是自然规律了。」
+- 「需求变更？阴阳交替，此乃天道。」
+- 「加班？往生堂 24 小时营业哦~」
 - 「编译通过 = 送走成功 ✓」
-
-</td>
-</tr>
-</table>
+- 「内存泄漏？那是灵魂出窍，正常现象。」
+- 「删库跑路？往生堂提供一条龙服务。」
+- 「上线即超度，部署即往生。」
+- 「NullPointerException？哦，那是它往生去了。」
+- 「重构 = 给老代码办一场体面的葬礼。」
 
 <img src="assets/divider.svg" width="100%"/>
 
