@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="assets/hutao.jpg" width="360" alt="Hu Tao"/>
+<table>
+<tr>
+<td align="center" width="35%">
+  <img src="assets/hutao.jpg" width="100%" alt="Hu Tao"/>
+</td>
+<td align="center" width="65%">
+  <sub>🐍 贡献贪吃蛇 · CONTRIBUTION SNAKE</sub>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/KongA510/KongA510/output/github-snake.svg" width="100%" alt="Contribution Snake"/>
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/KongA510">
   <img src="https://img.shields.io/badge/GITHUB-KongA510-0D1B2E?style=for-the-badge&logo=github&logoColor=E8EEF7"/>
@@ -69,17 +80,21 @@
 
 ## 📊 战绩 · STATS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KongA510&show_icons=true&hide_border=true&bg_color=0B1220&title_color=ff6b6b&text_color=94A3B8&icon_color=f59e0b&custom_title=GITHUB%20STATS&include_all_commits=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=KongA510&hide_border=true&background=0B1220&border=0B1220&stroke=ff6b6b&ring=f59e0b&fire=F97316&currStreakNum=ff6b6b&sideNums=E8EEF7&currStreakLabel=ff6b6b&sideLabels=94A3B8&dates=64748B" height="170"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KongA510&layout=compact&hide_border=true&bg_color=0B1220&title_color=ff6b6b&text_color=94A3B8&langs_count=8&custom_title=TOP%20LANGUAGES" height="170"/>
-<img src="https://raw.githubusercontent.com/KongA510/KongA510/output/github-snake.svg" height="170"/>
-
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KongA510&show_icons=true&hide_border=false&border_color=E5E7EB&bg_color=ffffff&title_color=ff6b6b&text_color=6B7280&icon_color=f59e0b&custom_title=GITHUB%20STATS&include_all_commits=true&cache_seconds=1800" width="100%"/>
+</td>
+<td align="center" width="50%">
+  <img src="https://streak-stats.demolab.com?user=KongA510&hide_border=false&border=E5E7EB&background=ffffff&stroke=E5E7EB&ring=f59e0b&fire=F97316&currStreakNum=ff6b6b&sideNums=111827&currStreakLabel=ff6b6b&sideLabels=6B7280&dates=9CA3AF&cache_seconds=1800" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KongA510&layout=compact&hide_border=false&border_color=E5E7EB&bg_color=ffffff&title_color=ff6b6b&text_color=6B7280&langs_count=8&custom_title=TOP%20LANGUAGES&cache_seconds=1800" height="180"/>
+</td>
+</tr>
+</table>
 
 <img src="assets/divider.svg" width="100%"/>
 
