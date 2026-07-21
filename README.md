@@ -14,12 +14,11 @@
 </table>
 
 <a href="https://github.com/KongA510">
-  <img src="https://img.shields.io/badge/GITHUB-KongA510-0D1B2E?style=for-the-badge&logo=github&logoColor=E8EEF7"/>
+  <img src="https://img.shields.io/badge/GITHUB-KongA510-E5E7EB?style=for-the-badge&logo=github&logoColor=111827&labelColor=F3F4F6"/>
 </a>
 <a href="mailto:xwzaxy@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-xwzaxy@gmail.com-0D1B2E?style=for-the-badge&logo=gmail&logoColor=ff6b6b"/>
+  <img src="https://img.shields.io/badge/EMAIL-xwzaxy@gmail.com-E5E7EB?style=for-the-badge&logo=gmail&logoColor=ff6b6b&labelColor=F3F4F6"/>
 </a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKongA510&count_bg=%23ff6b6b&title_bg=%230D1B2E&icon=&icon_color=%23f59e0b&title=PROFILE%20VIEWS&edge_flat=true"/>
 
 </div>
 
@@ -105,10 +104,10 @@
 **合作 / 交流 / 拍砖 / 预约往生堂服务，欢迎随时找我 🦋**
 
 <a href="mailto:xwzaxy@gmail.com">
-  <img src="https://img.shields.io/badge/📮 邮箱-xwzaxy@gmail.com-0D1B2E?style=for-the-badge&logoColor=ff6b6b"/>
+  <img src="https://img.shields.io/badge/📮 邮箱-xwzaxy@gmail.com-E5E7EB?style=for-the-badge&logoColor=ff6b6b&labelColor=F3F4F6"/>
 </a>
 <a href="https://github.com/KongA510">
-  <img src="https://img.shields.io/badge/🐙 主页-github.com/KongA510-0D1B2E?style=for-the-badge&logo=github&logoColor=ff6b6b"/>
+  <img src="https://img.shields.io/badge/🐙 主页-github.com/KongA510-E5E7EB?style=for-the-badge&logo=github&logoColor=111827&labelColor=F3F4F6"/>
 </a>
 
 </div>
