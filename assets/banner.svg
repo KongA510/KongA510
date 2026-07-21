@@ -1,0 +1,166 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 520" font-family="Consolas, 'Cascadia Code', 'JetBrains Mono', Menlo, monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070D1B"/>
+      <stop offset=".55" stop-color="#0A1424"/>
+      <stop offset="1" stop-color="#081020"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowAmber" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#F59E0B" stop-opacity=".10"/>
+      <stop offset="1" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#38BDF8" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#FBBF24"/>
+    </linearGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#152238"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <clipPath id="u1"><rect x="880" y="290" width="360" height="8"/></clipPath>
+    <clipPath id="t1"><rect x="90" y="160" width="0" height="28"><animate attributeName="width" from="0" to="560" begin="0.3s" dur="0.45s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t2"><rect x="90" y="190" width="0" height="28"><animate attributeName="width" from="0" to="560" begin="0.95s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t3"><rect x="90" y="222" width="0" height="28"><animate attributeName="width" from="0" to="560" begin="1.8s" dur="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t4"><rect x="90" y="252" width="0" height="28"><animate attributeName="width" from="0" to="560" begin="2.5s" dur="0.75s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t5"><rect x="90" y="284" width="0" height="28"><animate attributeName="width" from="0" to="560" begin="3.55s" dur="0.55s" fill="freeze"/></rect></clipPath>
+    <clipPath id="t6"><rect x="90" y="316" width="0" height="30"><animate attributeName="width" from="0" to="560" begin="4.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect width="1500" height="520" fill="url(#bg)"/>
+  <rect width="1500" height="520" fill="url(#dots)" opacity=".55"/>
+  <circle cx="1180" cy="70" r="420" fill="url(#glowCyan)"/>
+  <circle cx="220" cy="470" r="400" fill="url(#glowAmber)"/>
+
+  <text x="1055" y="435" text-anchor="middle" font-size="330" font-weight="700" fill="#0E1A2F" opacity=".85">&lt;/&gt;</text>
+
+  <g stroke="#38BDF8" stroke-width="2" opacity=".45" fill="none">
+    <path d="M26,54 V26 H54"/>
+    <path d="M1446,26 H1474 V54"/>
+    <path d="M1474,466 V494 H1446"/>
+    <path d="M54,494 H26 V466"/>
+  </g>
+
+  <text x="70" y="46" font-size="13" fill="#5B7089" letter-spacing="2">// github.com/KongA510</text>
+  <circle cx="1318" cy="42" r="4" fill="#34D399">
+    <animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1332" y="46" font-size="13" fill="#5B7089" letter-spacing="2">SYS.ONLINE</text>
+  <line x1="70" y1="60" x2="1430" y2="60" stroke="#131F33" stroke-width="1"/>
+
+  <g stroke="#22374F" stroke-width="1.5" opacity=".8" fill="none">
+    <path d="M640,84 h12 M646,78 v12"/>
+    <path d="M196,300 h12 M202,294 v12"/>
+    <path d="M1424,352 h12 M1430,346 v12"/>
+    <path d="M736,470 h12 M742,464 v12"/>
+  </g>
+
+  <g transform="translate(1330,150)">
+    <circle r="78" fill="none" stroke="#1B2B44" stroke-width="1" stroke-dasharray="3 6"/>
+    <g>
+      <circle r="52" fill="none" stroke="#38BDF8" stroke-width="1" opacity=".35" stroke-dasharray="4 10"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <circle cx="78" cy="0" r="4" fill="#F59E0B"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/>
+    </g>
+    <circle r="3" fill="#38BDF8" opacity=".8"/>
+  </g>
+
+  <g fill="none" stroke="#1D3350" stroke-width="1.5">
+    <path d="M70,478 H300 L330,448 H560 L590,478 H760" stroke-dasharray="6 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1430,96 H1240 L1210,126 H1080" stroke-dasharray="6 10" opacity=".8">
+      <animate attributeName="stroke-dashoffset" from="0" to="-160" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#38BDF8" opacity=".5">
+    <circle cx="300" cy="478" r="2.5"/><circle cx="560" cy="448" r="2.5"/><circle cx="760" cy="478" r="2.5"/>
+    <circle cx="1240" cy="96" r="2.5"/><circle cx="1080" cy="126" r="2.5"/>
+  </g>
+
+  <g>
+    <rect x="70" y="104" width="580" height="316" rx="12" fill="#0C1424" stroke="#1E2C44" stroke-width="1"/>
+    <circle cx="98" cy="130" r="5.5" fill="#F59E0B"/>
+    <circle cx="118" cy="130" r="5.5" fill="#34D399"/>
+    <circle cx="138" cy="130" r="5.5" fill="#38BDF8"/>
+    <text x="360" y="135" text-anchor="middle" font-size="12" fill="#5B7089" letter-spacing="1">kong.a@dev: ~/profile</text>
+    <line x1="71" y1="150" x2="649" y2="150" stroke="#16233B" stroke-width="1"/>
+
+    <g clip-path="url(#t1)"><text x="96" y="180" font-size="15"><tspan fill="#34D399">$</tspan><tspan fill="#E8EEF7"> whoami</tspan></text></g>
+    <g clip-path="url(#t2)"><text x="96" y="210" font-size="15" fill="#C7D3E4">Kong.A · .NET Desktop Developer</text></g>
+    <g clip-path="url(#t3)"><text x="96" y="242" font-size="15"><tspan fill="#34D399">$</tspan><tspan fill="#E8EEF7"> cat focus.txt</tspan></text></g>
+    <g clip-path="url(#t4)"><text x="96" y="272" font-size="15" fill="#7DD3FC">C# · WPF · ARAS INNOVATOR · SQL SERVER</text></g>
+    <g clip-path="url(#t5)"><text x="96" y="304" font-size="15"><tspan fill="#34D399">$</tspan><tspan fill="#E8EEF7"> ./status --current</tspan></text></g>
+    <g clip-path="url(#t6)">
+      <text x="96" y="336" font-size="15"><tspan fill="#F59E0B">▸</tspan><tspan fill="#E8EEF7"> building: ArasToolkit</tspan></text>
+      <rect x="316" y="325" width="176" height="11" rx="3" fill="#152238"/>
+      <rect x="316" y="325" width="0" height="11" rx="3" fill="url(#barFill)">
+        <animate attributeName="width" from="0" to="137" begin="4.9s" dur="1.3s" fill="freeze"/>
+      </rect>
+      <text x="502" y="336" font-size="13" fill="#F59E0B" opacity="0">78%
+        <animate attributeName="opacity" from="0" to="1" begin="6.1s" dur="0.3s" fill="freeze"/>
+      </text>
+      <rect x="540" y="323" width="9" height="16" fill="#38BDF8" opacity="0">
+        <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.1s" begin="6.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <line x1="800" y1="155" x2="886" y2="155" stroke="#1E2C44" stroke-width="1"/>
+  <line x1="1234" y1="155" x2="1320" y2="155" stroke="#1E2C44" stroke-width="1"/>
+  <text x="1060" y="160" text-anchor="middle" font-size="15" fill="#38BDF8" letter-spacing="5">&lt; HELLO WORLD, I AM /&gt;</text>
+
+  <text x="1060" y="272" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="112" font-weight="800" letter-spacing="3" fill="#38BDF8" opacity=".3" filter="url(#softGlow)">KONG.A</text>
+  <text x="1060" y="272" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="112" font-weight="800" letter-spacing="3"><tspan fill="#E8EEF7">KONG</tspan><tspan fill="#F59E0B">.</tspan><tspan fill="#38BDF8">A</tspan></text>
+
+  <rect x="880" y="292" width="360" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
+  <g clip-path="url(#u1)">
+    <rect x="820" y="292" width="70" height="4" fill="#FFFFFF" opacity=".5">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="480 0" dur="3.2s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="1060" y="338" text-anchor="middle" font-family="'Segoe UI', 'Microsoft YaHei', sans-serif" font-size="17" fill="#9FB2C8" letter-spacing="3">把复杂需求，写成优雅的代码</text>
+  <text x="1060" y="372" text-anchor="middle" font-size="13" fill="#5B7089" letter-spacing="4">C# / .NET / WPF / EF CORE / SQL SERVER</text>
+
+  <g>
+    <rect x="848" y="398" width="238" height="36" rx="18" fill="#0D1830" stroke="#1E2C44" stroke-width="1"/>
+    <circle cx="872" cy="416" r="5" fill="#34D399">
+      <animate attributeName="r" values="4;5.5;4" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;.5;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="888" y="421" font-size="12.5" fill="#7CE7AC" letter-spacing="2">OPEN TO COLLABORATE</text>
+    <rect x="1102" y="398" width="170" height="36" rx="18" fill="#0D1830" stroke="#1E2C44" stroke-width="1"/>
+    <text x="1187" y="421" text-anchor="middle" font-size="12.5" fill="#9FB2C8" letter-spacing="2">CHINA · UTC+8</text>
+  </g>
+
+  <g fill="#38BDF8">
+    <circle cx="700" cy="120" r="2" opacity=".5"><animate attributeName="cy" values="120;108;120" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="240" r="1.5" opacity=".4"><animate attributeName="cy" values="240;252;240" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="1390" cy="420" r="2" fill="#F59E0B" opacity=".45"><animate attributeName="cy" values="420;408;420" dur="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <rect x="0" y="-120" width="1500" height="110" fill="url(#scan)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="0 700" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="70" y="496" font-size="12" fill="#3D5370" letter-spacing="2">PROFILE v1.0.0</text>
+  <text x="1430" y="496" text-anchor="end" font-size="12" fill="#3D5370" letter-spacing="2">// KEEP SHIPPING_</text>
+</svg>
