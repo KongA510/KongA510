@@ -1,6 +1,6 @@
 <div align="center">
 
-![KONG.A — .NET Developer](assets/banner.svg)
+<img src="assets/hutao.jpg" width="100%" alt="Hu Tao"/>
 
 <a href="https://github.com/KongA510">
   <img src="https://img.shields.io/badge/GITHUB-KongA510-0D1B2E?style=for-the-badge&logo=github&logoColor=E8EEF7"/>
@@ -31,7 +31,7 @@
 </td>
 <td width="50%">
 
-** 随机语录**
+**🎲 随机语录**
 - 「代码写得好，送走没烦恼」
 - 「这个 bug 嘛…属于是自然规律了」
 - 「需求变更？阴阳交替，此乃天道」
@@ -44,33 +44,15 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
-## ️ 技术栈 · TECH STACK
+## 🛠️ 技术栈 · TECH STACK
 
 <div align="center">
 
-**⚔️ 武器 / LANGUAGES**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,vue,react,html,css,tailwind" />
 
-![C#](https://img.shields.io/badge/C%23-0D1B2E?style=for-the-badge&logo=csharp&logoColor=ff6b6b)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0D1B2E?style=for-the-badge&logo=javascript&logoColor=ff6b6b)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0D1B2E?style=for-the-badge&logo=typescript&logoColor=ff6b6b)
-![Python](https://img.shields.io/badge/PYTHON-0D1B2E?style=for-the-badge&logo=python&logoColor=ff6b6b)
-![SQL](https://img.shields.io/badge/SQL-0D1B2E?style=for-the-badge&logo=mysql&logoColor=ff6b6b)
+<br/>
 
-**🏯 领域 / FRAMEWORKS**
-
-![.NET](https://img.shields.io/badge/.NET-0D1B2E?style=for-the-badge&logo=dotnet&logoColor=f59e0b)
-![WPF](https://img.shields.io/badge/WPF-0D1B2E?style=for-the-badge&logoColor=f59e0b)
-![EF Core](https://img.shields.io/badge/EF%20CORE-0D1B2E?style=for-the-badge&logoColor=f59e0b)
-![MVVM](https://img.shields.io/badge/MVVM-0D1B2E?style=for-the-badge&logoColor=f59e0b)
-![Aras Innovator](https://img.shields.io/badge/ARAS%20INNOVATOR-0D1B2E?style=for-the-badge&logoColor=f59e0b)
-
-**📦 装备 / TOOLS**
-
-![Git](https://img.shields.io/badge/GIT-0D1B2E?style=for-the-badge&logo=git&logoColor=ff6b6b)
-![Visual Studio](https://img.shields.io/badge/VISUAL%20STUDIO-0D1B2E?style=for-the-badge&logo=visualstudio&logoColor=ff6b6b)
-![VS Code](https://img.shields.io/badge/VS%20CODE-0D1B2E?style=for-the-badge&logo=visualstudiocode&logoColor=ff6b6b)
-![Docker](https://img.shields.io/badge/DOCKER-0D1B2E?style=for-the-badge&logo=docker&logoColor=ff6b6b)
-![SQL Server](https://img.shields.io/badge/SQL%20SERVER-0D1B2E?style=for-the-badge&logo=microsoftsqlserver&logoColor=ff6b6b)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,postman,docker" />
 
 </div>
 
